@@ -3,7 +3,7 @@
 
 Skills: REDUX / REACT / NODEJS / TYPESCRIPT / JS / HTML / CSS
 
-- 👩🏼‍💻 Working as a frontend intern at Alex Therapeutics. Read more about us here: [link to Alex Therapeutic's website](https://alextherapeutics.com/)
+- 👩🏼‍💻 Working as a frontend intern at Alex Therapeutics. Read more about us here: [Our website](https://alextherapeutics.com/)
 
 - 📚 I'm studying at Hyper Island (April 2022)
 
