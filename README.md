@@ -3,7 +3,7 @@
 
 Skills: REDUX / REACT / NODEJS / TYPESCRIPT / JS / HTML / CSS
 
-- 👩🏼‍💻 Working as a frontend intern at Alex Therapeutics. Read more about us [here](https://alextherapeutics.com/)
+- 👩🏼‍💻 Working as a Software Engineer at Svenska Spel, developing our new design system 
 
 - 💻 TypeScript enthusiast!  
 
