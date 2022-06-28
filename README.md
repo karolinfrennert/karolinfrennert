@@ -1,5 +1,5 @@
 ### Hi there, my name is Karolin 👋 
-####  Frontend Developer based in Stockholm, Sweden 👩🏼‍💻
+####  Software Engineer based in Stockholm, Sweden 👩🏼‍💻
 
 Skills: REDUX / REACT / NODEJS / TYPESCRIPT / JS / HTML / CSS
 
@@ -7,9 +7,9 @@ Skills: REDUX / REACT / NODEJS / TYPESCRIPT / JS / HTML / CSS
 
 - 💻 TypeScript enthusiast!  
 
-- 📚 I'm studying at Hyper Island (April 2022)
+- 📚 I'm a Hyper Island Graduate! 
 
-- 🌱 Currently learning Redux and always eager to learn more
+- 🌱 Currently learning Svelte and always eager to learn more
 
 - 💬 You can talk to me about all things code (and cats)!  
 
