@@ -9,4 +9,4 @@
 
 - 💬 You can talk to me about all things code (and cats)!
 
-https://www.linkedin.com/in/karolinfrennert/
+  https://www.linkedin.com/in/karolinfrennert/
